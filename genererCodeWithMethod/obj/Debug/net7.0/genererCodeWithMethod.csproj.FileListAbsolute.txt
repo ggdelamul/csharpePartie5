@@ -1,0 +1,14 @@
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.AssemblyInfoInputs.cache
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.AssemblyInfo.cs
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.csproj.CoreCompileInputs.cache
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\bin\Debug\net7.0\genererCodeWithMethod.exe
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\bin\Debug\net7.0\genererCodeWithMethod.deps.json
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\bin\Debug\net7.0\genererCodeWithMethod.runtimeconfig.json
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\bin\Debug\net7.0\genererCodeWithMethod.dll
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\bin\Debug\net7.0\genererCodeWithMethod.pdb
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.dll
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\refint\genererCodeWithMethod.dll
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.pdb
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\genererCodeWithMethod.genruntimeconfig.cache
+C:\Users\jerem\desktop\csharp\partie5\genererCodeWithMethod\obj\Debug\net7.0\ref\genererCodeWithMethod.dll
